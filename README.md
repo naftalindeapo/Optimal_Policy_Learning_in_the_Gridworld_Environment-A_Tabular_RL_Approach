@@ -4,7 +4,7 @@ Our implementation focuses on addressing the problem of learning optimal policie
 
 <div>
     <img src="https://raw.githubusercontent.com/Farama-Foundation/Minigrid/master/minigrid-text.png" style="width: 50%; float: left;" /> 
-    <img src="https://github.com/Farama-Foundation/Minigrid/blob/master/figures/door-key-curriculum.gif" style="width: 60%; float: right;" />  
+    <img src="https://github.com/Farama-Foundation/Minigrid/blob/master/figures/door-key-curriculum.gif" style="width: 50%; float: right;" />  
  </div>
 
 # The Environment
