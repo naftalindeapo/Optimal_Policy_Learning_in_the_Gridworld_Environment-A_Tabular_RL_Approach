@@ -74,5 +74,6 @@ To install the Minigrid library use pip install minigrid.
 - Python 3.7-3.12
 
 ### License
-Refer to the [LICENSE](https://github.com/naftalindeapo/Movies-Recommender-System/blob/main/LICENSE).
+Refer to the [LICENSE](https://github.com/naftalindeapo/Optimal_Policy_Learning_in_the_Gridworld_Environment-A_Tabular_RL_Approach/blob/main/LICENSE).
+
 
